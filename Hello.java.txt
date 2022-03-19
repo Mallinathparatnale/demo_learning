@@ -3,5 +3,7 @@ public class Hello{
 	syso("Hello");
 System.out.println("hi this is my code");
 System.out.print("Hello Java8");
+	syso("This is komal");
+
   }
 }
