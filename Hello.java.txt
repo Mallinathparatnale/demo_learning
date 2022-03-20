@@ -1,11 +1,9 @@
 public class Hello{
  public static void main(String args[]){
-	System.out.print("To raise conflict");
 	syso("Hello");
 System.out.println("hi this is my code");
 System.out.print("Hello Java8");
 	syso("This is komal");
 
-System.out.pritnln("Added new changes by Sneha");
   }
 }
