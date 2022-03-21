@@ -1,5 +1,7 @@
 public class Hello{
  public static void main(String args[]){
 	syso("Hello");
+	syso("this is my code");
+	syso("Shubham");	
   }
 }
