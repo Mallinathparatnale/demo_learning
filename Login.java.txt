@@ -4,7 +4,7 @@ public class Login{
 		SOP("Password field issue is resolved ");
 		SOP("Changes done by Rishikesh ");
 		SOP("Feature develoment by Mallinath ");
-		SOP("Feature develoment by Raj ");
+		SOP("Feature develoment by Raja");
 	
 	}
 }
