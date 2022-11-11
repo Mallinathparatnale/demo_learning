@@ -1,5 +1,5 @@
 class Simple
 {
 psvm (Stri)
-This commit is by Samarth Jogi
+System.out.println("This commit is by Samarth Jogi");
 }
