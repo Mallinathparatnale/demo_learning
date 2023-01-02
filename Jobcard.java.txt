@@ -1,7 +1,8 @@
 class Simple 
 {
  public static void main (String args){
-   
+   //Jobcard implementation
 System.out.println("New JobCard Updated");
+
 }
 }
