@@ -2,9 +2,13 @@ public class Login{
 
 	public static void main(String args[]){
 		SOP("Password field issue is resolved ");
-		SOP("Changes done by Rishikesh ");
 		SOP("Feature develoment by Mallinath ");
 		SOP("Feature develoment by Raja");
 	
 	}
+
+	void validateLogin(){
+	SOP("Valid User ");
+	}
+		
 }
