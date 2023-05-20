@@ -7,6 +7,11 @@ public class Login{
 	
 	}
 
+      void signup()
+{
+
+
+
 	void validateLogin(){
 	SOP("Valid User ");
 	}
